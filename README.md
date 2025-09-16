@@ -41,3 +41,6 @@ All data is stored in a text file **Clientss.txt** and reloaded when the program
 ---
 
 ## 📂 Project Structure
+---
+
+✍️ هذا المشروع للتعلّم والممارسة، والهدف منه ربط أكثر من مفهوم برمجي في نظام واحد صغير.
